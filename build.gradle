@@ -1,0 +1,6 @@
+plugins {
+    id 'java'
+}
+
+group 'pt.dmms.sad'
+version '1.0-SNAPSHOT'
